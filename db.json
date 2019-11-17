@@ -1,4 +1,5 @@
-[
+{
+  "companies":[
   {
     "name": "Company 1",
     "logo": "https://dev.exood.com/pix-1--logo/xpix.jpg",
@@ -15,3 +16,4 @@
     "domain": "https://dev.exood.com"
   }
 ]
+}
