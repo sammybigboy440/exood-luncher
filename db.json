@@ -2,16 +2,16 @@
   {
     "name": "Company 1",
     "logo": "https://dev.exood.com/pix-1--logo/xpix.jpg",
-    "domain": "https://dev.exood.com",
+    "domain": "https://dev.exood.com"
   },
   {
     "name": "Company 2",
     "logo": "https://dev.exood.com/pix-1--logo/xpix.jpg",
-    "domain": "https://dev.exood.com",
+    "domain": "https://dev.exood.com"
   },
   {
     "name": "Company 3",
     "logo": "https://dev.exood.com/pix-1--logo/xpix.jpg",
-    "domain": "https://dev.exood.com",
+    "domain": "https://dev.exood.com"
   }
 ]
