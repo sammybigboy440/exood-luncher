@@ -15,5 +15,10 @@
       "logo": "https://dev.exood.com/pix-1--logo/xpix.jpg",
       "domain": "https://dev.exood.com"
     }
-  ]
+  ],
+  "user":{
+    "name":"Test User",
+    "email":"testuser@email.com",
+    "username":"testuser",
+  }
 }
