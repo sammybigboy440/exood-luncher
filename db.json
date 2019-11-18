@@ -19,6 +19,6 @@
   "user":{
     "name":"Test User",
     "email":"testuser@email.com",
-    "username":"testuser",
+    "username":"testuser"
   }
 }
